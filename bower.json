@@ -1,0 +1,11 @@
+{
+  "name": "latest-webapp-build",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "gsap": "^1.19.0",
+    "EaselJS": "easeljs#^0.8.2",
+    "PreloadJS": "^0.6.2",
+    "PubSubJS": "pubsub-js#^1.5.4"
+  }
+}
